@@ -274,7 +274,9 @@ with higher overall accuracy and better class-wise performance.
 | Task                                      | Model           | Performance      |
 |-------------------------------------------|-----------------|------------------|
 | Founder Retention (Binary)               | **Neural Net**  | ⭐ Best           |
+| Founder Retention (Binary)(Smaller dataset)               | **Neural Net**  |  Good but weaker           |
 | Founder Retention (Binary)               | SVM             | Good but weaker  |
+| Founder Retention (Binary)(Smaller dataset)               | SVM             | ⭐ Best    |
 | Personality Cluster (5-Class, Multi-Class)| **Neural Net**  | ⭐ Best           |
 | Personality Cluster (5-Class, Multi-Class)| SVM             | Lower accuracy   |
 
